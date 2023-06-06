@@ -16,4 +16,3 @@
 # What I built
 
 - # A 100% responsive Newsletter Sign-up Form with a Successful Message UI.
-- A webdesign challenge made by Front-end Mentor for a Responsive Newsletter Sign-up Form with a Successful Message UI.
