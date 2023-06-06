@@ -9,15 +9,11 @@
 
 # The Tools I used
 
-- React js
 - Tailwind CSS
 - Mantine
 - React router dom
 
 # What I built
 
-<<<<<<< HEAD
-- A 100% responsive Newsletter Sign-up Form with a Successful Message UI.
-=======
+- # A 100% responsive Newsletter Sign-up Form with a Successful Message UI.
 - A webdesign challenge made by Front-end Mentor for a Responsive Newsletter Sign-up Form with a Successful Message UI.
->>>>>>> f5361a0 (update features)
